@@ -9,7 +9,8 @@
 # StageMate: 瞬き・頭の動きで譜めくり (ハンズフリー)
 
 <div align="center">
-<img src="https://stagemate.site/logo.png" alt="StageMate Logo" width="120">
+  <img src="https://github.com/user-attachments/assets/54733b01-c823-4335-af4b-fb79b4724980" width="80%" alt="iPad Landscape View">
+</div>
 
 ### ミュージシャンのための究極の楽譜リーダー
 
