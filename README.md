@@ -10,8 +10,6 @@
 
 <div align="center">
 
-![Uploading ChatGPT Image 2025年9月13日 14_43_27(3) (1).jpg…]()
-
 
 ### The Ultimate Sheet Music Companion for Live Performers
 
