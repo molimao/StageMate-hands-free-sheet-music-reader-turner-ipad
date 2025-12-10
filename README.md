@@ -14,9 +14,7 @@
 ### The Ultimate Sheet Music Companion for Live Performers
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a3fa0997-5f86-41c1-9add-b730f1c35de6" width="80%" alt="iPad Landscape View">
-  <br/>
-  <sub>iPad 横屏模式：乐谱显示更完整</sub>
+  <img src="https://github.com/user-attachments/assets/a3fa0997-5f86-41c1-9add-b730f1c35de6" width="80%" alt="StageMate Demo">
 </div>
 
 [**🌐 Official Website**](https://stagemate.site/) | [**🍎 Download on App Store**](https://apps.apple.com/app/id6755516794)
