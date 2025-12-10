@@ -9,7 +9,8 @@
 # StageMate: Tourneur de pages de partitions mains libres
 
 <div align="center">
-<img src="https://stagemate.site/logo.png" alt="StageMate Logo" width="120">
+  <img src="https://github.com/user-attachments/assets/318e41fd-ba79-4557-9451-2ab215efb0cf" width="80%" alt="StageMate Demo">
+</div>
 
 ### L'application indispensable pour les musiciens sur scène
 
