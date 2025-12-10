@@ -9,7 +9,8 @@
 # StageMate: 眨眼/点头翻页乐谱神器 (解放双手)
 
 <div align="center">
-<img src="https://stagemate.site/logo.png" alt="StageMate Logo" width="120">
+  <img src="https://github.com/user-attachments/assets/2c0b82e2-3f29-4920-b85e-a06023455dee" width="80%" alt="iPad Landscape View">
+</div>
 
 ### 专为现场演出设计的 iPad 乐谱管理助手
 
