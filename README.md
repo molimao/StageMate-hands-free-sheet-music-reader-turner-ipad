@@ -13,6 +13,8 @@
 
 ### The Ultimate Sheet Music Companion for Live Performers
 
+https://github.com/user-attachments/assets/a3fa0997-5f86-41c1-9add-b730f1c35de6
+
 [**🌐 Official Website**](https://stagemate.site/) | [**🍎 Download on App Store**](https://apps.apple.com/app/id6755516794)
 
 ---
